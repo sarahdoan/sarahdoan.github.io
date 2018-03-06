@@ -693,15 +693,6 @@ body {
 
 /*Font Styling -Sarah*/
 
-#intro {
-	padding-top: 150px;
-	margin: 70px;
-	line-height: 46px;
-	text-align: center;
-	font-size: 23px;
-	font-weight: 300;
-}
-
 #title {
     margin: 70px;
     line-height: 0px;
@@ -713,7 +704,7 @@ body {
 #article {
     margin: 70px;
     line-height: 50px;
-    font-size: 23px;
+    font-size: 40px;
     font-weight: 300;
 }
 
@@ -967,7 +958,7 @@ input[type="text"], input[type="password"], input[type="email"], textarea, selec
 	margin: 70px;
 	line-height: 46px;
 	text-align: center;
-	font-size: 23px;
+	font-size: 40px;
 	font-weight: 300;
 	}
 	
@@ -1040,17 +1031,6 @@ input[type="text"], input[type="password"], input[type="email"], textarea, selec
 	}
 	
 	#map {display: none;}
-	
-	
-	#intro {
-	padding-top: 100px;
-	margin: 70px;
-	line-height: 46px;
-	text-align: center;
-	font-size: 23px;
-	font-weight: 300;
-	}
-
 	
 	.cbp-af-header {
 	position: fixed;
@@ -1128,17 +1108,6 @@ input[type="text"], input[type="password"], input[type="email"], textarea, selec
 	text-align: center;
 	font-weight: 400;
 	}
-	
-	
-	#intro {
-	padding-top: 90px;
-	margin: 52px;
-	line-height: 29px;
-	text-align: center;
-	font-size: 19px;
-	font-weight: 300;
-	}
-	
 	
 	.cbp-af-header {
 	position: fixed;
