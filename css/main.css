@@ -701,6 +701,15 @@ body {
     font-weight: 300;
 }
 
+    #intro {
+    padding-top: 100px;
+    margin: 70px;
+    line-height: 46px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 300;
+    }
+
 #article {
     margin: 70px;
     line-height: 50px;
