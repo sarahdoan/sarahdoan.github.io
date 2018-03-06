@@ -540,9 +540,15 @@ table {
 
 
 body {
-    font: 16px/26px Helvetica, Helvetica Neue, Arial;
-	font-family: 'Roboto', 'Roboto Slab', serif, 'Roboto', sans-serif;
+    font: 25px/30px Helvetica Neue, Arial;
+	font-family: 'Work Sans', sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+    line-height: 2;
 }
+
+
+
 
 
 /* --- header ani ------------------------------------------------ */ 
